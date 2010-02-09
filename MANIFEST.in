@@ -1,0 +1,2 @@
+include SConstruct
+recursive-include pkgtest/lib *
